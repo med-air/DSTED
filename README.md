@@ -8,7 +8,7 @@
 This repository will provide the official PyTorch implementation of **DSTED**, a dual-pathway framework for surgical workflow recognition.
 
 <p align="center">
-  <img src="method.png" width="95%">
+  <img src="method.png" width="85%">
 </p>
 
 Surgical workflow recognition is essential for context-aware assistance and skill assessment in computer-assisted interventions. However, existing approaches often suffer from **prediction jitter across frames** and **poor discrimination of ambiguous phases**.
